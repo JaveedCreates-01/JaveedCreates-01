@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi, I'm Syed Javeed Basha 👋
 
-<!--
-**JaveedCreates-01/JaveedCreates-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE (AI & ML) | Software Developer | Python & Web Development
 
-Here are some ideas to get you started:
+I’m a B.Tech Computer Science & Engineering (AI & ML) student passionate about
+building practical software solutions and improving my programming and
+problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with Python, web technologies, REST APIs, databases, and
+backend development. Currently, I’m focused on strengthening my software
+development skills and building real-world projects.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering (AI & ML)
+- 💻 Interested in Software Development & Backend Development
+- 🐍 Learning and building with Python
+- ⚡ Working with FastAPI and REST APIs
+- 🗄️ Learning SQL & PostgreSQL
+- 🌐 Building web applications using HTML, CSS & JavaScript
+- 🔧 Using Git & GitHub for version control
+- 🎯 Goal: Become a Software Developer and work on real-world applications
+
+---
+
+## 💼 Project
+
+### 💳 Subscription Management & Billing Automation
+**Infosys Springboard**
+
+A web-based subscription and billing management system designed to manage
+customers, subscriptions, payments and invoices.
+
+**Key Features:**
+- Customer management
+- Subscription management
+- Payment management
+- Invoice management
+- Authentication
+- REST APIs
+- Admin & Customer pages
+- Database integration
+- Dashboard development
+- Testing and debugging
+- UI improvements
+
+**Tech Stack:**
+`Python` `FastAPI` `HTML` `CSS` `JavaScript` `PostgreSQL` `REST API`
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+`C` `Python`
+
+### Web Development
+`HTML` `CSS` `JavaScript`
+
+### Backend
+`FastAPI` `REST APIs`
+
+### Database
+`SQL` `PostgreSQL`
+
+### Tools
+`Git` `GitHub` `VS Code`
+
+### Core Concepts
+`OOP` `DBMS` `Problem Solving`
+
+---
+
+## 📚 Currently Learning
+
+```text
+Python
+   ↓
+Problem Solving
+   ↓
+DSA
+   ↓
+Backend Development
+   ↓
+REST APIs
+   ↓
+SQL & PostgreSQL
+   ↓
+Real-World Projects
