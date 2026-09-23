@@ -90,23 +90,3 @@ SQL & PostgreSQL
    ↓
 Real-World Projects
 
-🎯 2026 Goals
-🚀 Become stronger in Python
-🧠 Improve DSA & problem solving
-🌐 Build more real-world web applications
-⚡ Improve backend development skills
-🗄️ Strengthen SQL & database concepts
-💼 Prepare for Software Developer opportunities
-📂 Build a strong GitHub portfolio
-🎥 Content Creation
-
-Apart from programming, I also enjoy:
-
-🎬 YouTube video creation
-✂️ Video editing
-📱 Social media content creation
-🤝 Let's Connect
-
-📧 Email: javeed.intern@gmail.com
-
-💻 GitHub: @JaveedCreates-01
